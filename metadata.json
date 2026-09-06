@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Reservation Tracker",
+  "description": "Check whether local specialty cafes have reservations available today with live slot tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
